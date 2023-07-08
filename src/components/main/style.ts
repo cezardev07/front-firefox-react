@@ -114,6 +114,7 @@ export const TagMain = styled.main`
 
         border-radius: 8px;
         box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+        text-decoration: none;
 
       .icone{
             width: 80px;
